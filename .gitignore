@@ -1,0 +1,13 @@
+# Node Modules
+node_modules/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
+
+# Environment variables
+.env
