@@ -28,7 +28,7 @@ To set up the project, clone the repository or download the project folder, then
 
 1. Navigate to the project directory:
    ```bash
-   cd labs-1
+   cd node-labs/labs-1
    ```
 
 2. (Optional) Install any dependencies specified in `package.json`:
