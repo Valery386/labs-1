@@ -33,7 +33,7 @@ labs-1/
    
 2. Navigate to the project folder in your terminal:
 ```shell script
-cd labs-1
+cd labs-4/labs-1
 ```
 
 3. Install the dependencies listed in `package.json`:
